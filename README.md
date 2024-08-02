@@ -23,4 +23,4 @@ iniciar la pagina index.html
 ### CREADOR
 - Luis Talero
 >[!IMPORTANT]
->No todos los departaqmentos son funcionales solo los mencionados en el glosario
+>No todos los departamentos son funcionales, solo los mencionados en el Glosario.

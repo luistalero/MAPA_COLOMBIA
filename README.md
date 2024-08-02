@@ -1,7 +1,7 @@
 # MAPA_COLOMBIA
 En esta pagina se podrá ver el mapa de colombia y 5 lugares muy distintivos del país con sus comidas típicas y lugares turísticos.
 ## CONTENIDOS
-|Pagina|Lugar|
+|Páginas|Lugar|
 |--|--|
 | 1 | Norte de santander |
 | 2 | Cesar |
